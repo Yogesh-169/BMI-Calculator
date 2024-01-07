@@ -16,4 +16,4 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bmi_calculator_flutter.git
+  https://github.com/Yogesh-169/BMI-Calculator.git
